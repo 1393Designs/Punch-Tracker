@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Punch Tracker</string>
+	<string name="no_names">Looks like you have no one to punch yet!\n\nThis needs to change.\n\nClick on the device menu to add someone to harass!</string>
+</resources>
